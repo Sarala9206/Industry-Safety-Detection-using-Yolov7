@@ -6,8 +6,7 @@ notebook==7.0.0a7
 boto3
 mypy-boto3-s3
 flask-cors
-flask
-
+flask 
 
 # Usage: pip install -r requirements.txt
 
